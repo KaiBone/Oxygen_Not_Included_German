@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-07-07 20:58+0200\n"
-"Last-Translator: CarstenG\n"
+"PO-Revision-Date: 2021-07-20 20:00+0200\n"
+"Last-Translator: KaiBone\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -4962,7 +4962,7 @@ msgstr "<link=\"SANDCEMENT\">Arcade-Automat</link>"
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.DESC"
 msgid "Discover the mysteries of the past."
-msgstr ""
+msgstr "Entdecke die Mysterien der Vergangenheit."
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.EFFECT"
@@ -4970,6 +4970,8 @@ msgid ""
 "Analyses and extracts <link=\"UNOBTANIUM\">Neutronium</link> from artifacts of "
 "interest."
 msgstr ""
+"Analysiert und extrahiert <link=\"UNOBTANIUM\">Neutronium</link> aus interessanten "
+"Artefakten."
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.NAME"
@@ -4979,7 +4981,7 @@ msgstr "<link=\"ARTIFACTANALYSISSTATION\">Artefaktanalysestation</link>"
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.DESC"
 msgid "Holds artifacts found in space."
-msgstr ""
+msgstr "Enthält Artefakte die im Weltall gefunden werden."
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.EFFECT"
@@ -10537,7 +10539,7 @@ msgid ""
 "or Input B are receiving <b><style=\"logic_on\">Green</style></b>."
 msgstr ""
 "Gibt ein <b><style=\"logic_on\">Grünes Signal</style></b> aus, wenn mindestens "
-"einder der Eingänge A <b>ODER</b> Eingang B <b><style=\"logic_on\">Grün</"
+"einer der Eingänge A <b>ODER</b> Eingang B <b><style=\"logic_on\">Grün</"
 "style></b> empfängt.\n"
 "\n"
 "Gibt ein <b><style=\"logic_off\">Rotes Signal</style></b> aus, wenn weder "
@@ -72890,7 +72892,7 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.CONVEYANCE.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.CONVEYANCE.BUILDMENUTITLE"
 msgid "Ore Transport"
-msgstr "Erztansport"
+msgstr "Erztransport"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.CONVEYANCE.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.CONVEYANCE.NAME"
@@ -75424,7 +75426,7 @@ msgstr "Kachel"
 #. STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.TRANSPORT
 msgctxt "STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.TRANSPORT"
 msgid "Transport"
-msgstr "Tansport"
+msgstr "Transport"
 
 #. STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.WATER
 msgctxt "STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.WATER"
@@ -82903,17 +82905,17 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SEED_ALLOWED
 msgctxt "STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SEED_ALLOWED"
 msgid "</i>Will analyze</i>"
-msgstr ""
+msgstr "</i>wird analysiert</i>"
 
 #. STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SEED_FORBIDDEN
 msgctxt "STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SEED_FORBIDDEN"
 msgid "</i>Won't analyze</i>"
-msgstr ""
+msgstr "</i>wird nicht analysiert</i>"
 
 #. STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SEED_NO_MUTANTS
 msgctxt "STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SEED_NO_MUTANTS"
 msgid "</i>No mutants found</i>"
-msgstr ""
+msgstr "</i>Keine Mutanten gefunden</i>"
 
 #. STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SELECT_SEEDS
 msgctxt "STRINGS.UI.UISIDESCREENS.GENETICANALYSISSIDESCREEN.SELECT_SEEDS"
@@ -82969,7 +82971,7 @@ msgstr "Ressourcen werden abgebaut"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_E"
 msgid "E"
-msgstr ""
+msgstr "O"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_N
 msgctxt ""
@@ -82993,7 +82995,7 @@ msgstr "NW"
 msgctxt ""
 "STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_S"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. STRINGS.UI.UISIDESCREENS.HIGHENERGYPARTICLEDIRECTIONSIDESCREEN.DIRECTION_SE
 msgctxt ""
@@ -83917,7 +83919,7 @@ msgstr "Pflanzen"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_DROPPER_BURST
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_DROPPER_BURST"
 msgid "{Disease} Burst: {DiseaseAmount}"
-msgstr ""
+msgstr "{Disease} Ausbruch: {DiseaseAmount}"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_DROPPER_CONSTANT
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.DISEASE_DROPPER_CONSTANT"
@@ -84016,7 +84018,8 @@ msgctxt ""
 msgid ""
 "At certain points in this plant's lifecycle, it will emit a burst of "
 "{DiseaseAmount} {Disease}."
-msgstr ""
+msgstr "Diese Pflanze wird an einem bestimmten Zeitpunkt "
+"{DiseaseAmount} von {Disease} ausstoßen."
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.DISEASE_DROPPER_CONSTANT
 msgctxt ""
@@ -84028,7 +84031,7 @@ msgstr "Diese Pflanze sondert {DiseaseAmount} {Disease} ab, während sie lebt."
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.DISEASE_ON_HARVEST"
 msgid ""
 "The {Crop} produced by this plant will have {DiseaseAmount} {Disease} on it."
-msgstr ""
+msgstr "Jene {Crop} dieser Fplanze wird {DiseaseAmount} von {Disease} haben."
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NUMBEROFHARVESTS
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.TOOLTIPS.NUMBEROFHARVESTS"
